@@ -1,7 +1,7 @@
 package com.git;
 
-public class B {
+public class C {
     public static void main(String[] args) {
-        System.out.println("ajay");
+        System.out.println("class c");
     }
 }
